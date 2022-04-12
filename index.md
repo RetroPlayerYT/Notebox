@@ -1,4 +1,4 @@
-![](https://ibb.co/0nT49t9)
+![](https://i.ibb.co/Rgfr6y6/Action-edit-icon.png)
 
 ## Make notes simpler than ever.
 
