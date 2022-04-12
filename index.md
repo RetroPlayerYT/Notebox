@@ -1,4 +1,4 @@
-![](https://i.ibb.co/Rgfr6y6/Action-edit-icon.png)
+![Notebox](https://i.ibb.co/Rgfr6y6/Action-edit-icon.png)
 
 ## Make notes simpler than ever.
 
