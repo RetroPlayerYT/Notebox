@@ -56,20 +56,5 @@ Ability to load other files
 
 Compatibility with .txt and .asc files
 
-# Downloads
-
-English version (Windows)
-
-[zacmwc.zip](https://files.catbox.moe/zacmwc.zip)
-
----
-
-French version (Windows)
-
-[n033np.zip](https://files.catbox.moe/n033np.zip)
-
----
-
-Portuguese version (Windows)
-
-Coming Soon
+# Docs
+[Read the Documentation](Documentation.pdf)
