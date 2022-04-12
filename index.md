@@ -36,11 +36,11 @@
 
 # Credits
 
-Notebox is made with Clickteam Fusion. 
+Notebox is made with [Clickteam Fusion](https://www.clickteam.com/clickteam-fusion-2-5).
 
 Icons are made by [Everaldo](https://iconarchive.com/artist/everaldo.html)
 
-The setup was made with NSIS.
+The setup was made with [NSIS](https://nsis.sourceforge.io/Main_Page).
 
 It allows you to make quick notes, without wasting too much performance.
 
