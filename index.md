@@ -1,4 +1,4 @@
-# Notebox
+![](https://ibb.co/0nT49t9)
 
 ## Make notes simpler than ever.
 
