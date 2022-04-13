@@ -1,6 +1,6 @@
 ![Notebox](https://i.ibb.co/Rgfr6y6/Action-edit-icon.png)
 
-## Make notes simpler than ever.
+![Tux](https://i.ibb.co/ysBJgqG/1649884472373.png)
 
 <aside>
 🏃 It runs fast, it installs fast.
