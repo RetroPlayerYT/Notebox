@@ -1,6 +1,6 @@
 ![Notebox](https://i.ibb.co/Rgfr6y6/Action-edit-icon.png)
 
-![Tux](https://i.ibb.co/ysBJgqG/1649884472373.png)
+![Tux](https://i.ibb.co/870ZXbW/received-999890080965658.webp)
 
 <aside>
 🏃 It runs fast, it installs fast.
