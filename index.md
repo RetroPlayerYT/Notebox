@@ -62,3 +62,6 @@ Compatibility with .txt and .asc files
 
 # Docs
 [Read the Documentation](Documentation.pdf)
+
+# Devlogs
+[Devlog Gist](https://gist.githubusercontent.com/RetroPlayerYT/a3f93640db22c609eccc25302cf4d527/raw/3642fc1ab9126193d3c14fc8cda05fb92591d43a/Notebox%2520Update%2520Log)
