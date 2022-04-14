@@ -44,6 +44,10 @@ The setup was made with [NSIS](https://nsis.sourceforge.io/Main_Page).
 
 It allows you to make quick notes, without wasting too much performance.
 
+# Notebox supports ASC and TXT files!
+![](https://i.ibb.co/NWLMpxL/20220414-181939.png)
+![](https://i.ibb.co/dBrDp6V/Crystal-Clear-mimetype-txt2.png)
+
 # Features
 
 Quicksaving
