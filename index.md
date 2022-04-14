@@ -17,13 +17,13 @@
     
     **EN**
     
-    [zacmwc.zip](https://files.catbox.moe/zacmwc.zip)
+    [zacmwc.zip](https://files.catbox.moe/0bux99.zip)
     
     ---
     
     **FR**
     
-    [n033np.zip](https://files.catbox.moe/n033np.zip)
+    [n033np.zip](https://files.catbox.moe/rfv9zk.zip)
     
     ---
     
