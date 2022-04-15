@@ -19,13 +19,13 @@
     
     **EN**
     
-    [zacmwc.zip](https://files.catbox.moe/0bux99.zip)
+    [NoteboxSetup.zip](https://qu.ax/dmwV.zip)
     
     ---
     
     **FR**
     
-    [n033np.zip](https://files.catbox.moe/rfv9zk.zip)
+    [NoteboxSetup.zip](https://qu.ax/EBCZ.zip)
     
     ---
     
@@ -41,7 +41,7 @@
     
     **EN**
     
-    Coming around one hour
+    [NoteboxUpdater.zip](https://qu.ax/sYxZ.zip)
     
     ---
     
@@ -106,3 +106,5 @@ Compatibility with .txt and .asc files
     [n033np.zip](https://files.catbox.moe/rfv9zk.zip)
     
     ---
+
+# [Check out the source code!](https://git.fuwafuwa.moe/RetroAkaMe/Notebox)
