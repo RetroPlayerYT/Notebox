@@ -47,7 +47,7 @@
     
     **FR**
     
-    [NoteboxUpdater.zip](https://files.catbox.moe/nfj6w8.zip)
+    [NoteboxUpdater.zip](https://qu.ax/ZMCS.zip)
     
     ---
     
