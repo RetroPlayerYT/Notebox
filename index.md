@@ -55,9 +55,7 @@
     
     [NoteboxUpdater.zip](https://qu.ax/kYez.zip)
     
-    ---
-    
-    ## Make sure to read the devlogs frequently to be informed of updates!
+## Make sure to read the devlogs frequently to be informed of updates!
 
 # Credits
 
