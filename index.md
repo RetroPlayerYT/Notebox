@@ -9,8 +9,6 @@
 
 ![zjsz6d.png](https://files.catbox.moe/zjsz6d.png)
 
----
-
 # Android Downloads
 
     ---
