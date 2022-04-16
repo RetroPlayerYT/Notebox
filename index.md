@@ -11,9 +11,9 @@
 
 # Android Downloads
     
-    **EN**
+**EN**
 
-    [Download](https://bun.filedit.ch/HXevivwDIMvKorcflfxc.zip)
+[Download](https://bun.filedit.ch/HXevivwDIMvKorcflfxc.zip)
 
 # Windows Downloads
 
