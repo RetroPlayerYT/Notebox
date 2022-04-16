@@ -31,7 +31,7 @@
     
     **PT**
     
-    Coming Soon
+    [NoteboxSetupPT.zip](https://qu.ax/PCOQ.zip)
     
     ---
     
@@ -53,7 +53,7 @@
     
     **PT**
     
-    Coming Soon
+    [NoteboxUpdater.zip](https://qu.ax/kYez.zip)
     
     ---
     
