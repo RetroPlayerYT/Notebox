@@ -65,6 +65,10 @@
     
 ## Make sure to read the devlogs frequently to be informed of updates!
 
+# Stay Updated!
+[Get notified every Notebox update!](https://retroakame.com/notebox/notify.html)
+[Read the blog!](https://notebox-blog.bearblog.dev/)
+
 # Credits
 
 Notebox is made with [Clickteam Fusion](https://www.clickteam.com/clickteam-fusion-2-5).
