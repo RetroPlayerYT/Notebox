@@ -10,14 +10,10 @@
 ![zjsz6d.png](https://files.catbox.moe/zjsz6d.png)
 
 # Android Downloads
-
-    ---
     
     **EN**
 
     [Download](https://bun.filedit.ch/HXevivwDIMvKorcflfxc.zip)
-
-    ---
 
 # Windows Downloads
 
