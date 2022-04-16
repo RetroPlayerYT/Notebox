@@ -56,6 +56,8 @@
     Coming Soon
     
     ---
+    
+    ## Make sure to read the devlogs frequently to be informed of updates!
 
 # Credits
 
