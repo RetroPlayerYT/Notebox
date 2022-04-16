@@ -67,6 +67,7 @@
 
 # Stay Updated!
 [Get notified every Notebox update!](https://retroakame.com/notebox/notify.html)
+And...
 [Read the blog!](https://notebox-blog.bearblog.dev/)
 
 # Credits
