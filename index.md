@@ -19,13 +19,13 @@
     
     **EN**
     
-    [NoteboxSetup.zip](https://qu.ax/dmwV.zip)
+    [NoteboxSetup.zip](https://qu.ax/qJSz.zip)
     
     ---
     
     **FR**
     
-    [NoteboxSetup.zip](https://qu.ax/EBCZ.zip)
+    [NoteboxSetupFR.zip](https://qu.ax/mDpd.zip)
     
     ---
     
@@ -47,7 +47,7 @@
     
     **FR**
     
-    [NoteboxUpdater.zip](https://qu.ax/ZMCS.zip)
+    [NoteboxUpdater.zip](https://qu.ax/bLEL.zip)
     
     ---
     
@@ -92,6 +92,22 @@ Compatibility with .txt and .asc files
 [Devlog Gist](https://gist.github.com/RetroPlayerYT/a3f93640db22c609eccc25302cf4d527#file-notebox-update-log)
 
 # Older Versions (For Windows)
+- Version 1.1
+    
+    ---
+    
+    **EN**
+    
+    [NoteboxSetup.zip](https://qu.ax/dmwV.zip)
+    
+    ---
+    
+    **FR**
+    
+    [NoteboxSetup.zip](https://qu.ax/EBCZ.zip)
+    
+    ---
+    
 
 - Version 1.0
     
