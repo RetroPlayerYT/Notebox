@@ -14,7 +14,7 @@
 **EN**
 
 [Download](https://bun.filedit.ch/PkGwsPHxZTynwELpdth.zip)
-
+### If you're unsatisfied with the port, you could use Wine on an Android. (Yes, that exists)
 ---
 
 # Windows Downloads
