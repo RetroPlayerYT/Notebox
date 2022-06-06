@@ -1,3 +1,5 @@
+# !!! We're migrating! This website is soon becoming obsolete. Here's the latest [updater](https://retroakame.com/notebox/allupdates.exe). It contains all languages.
+
 ![Notebox](https://i.ibb.co/HB0z9my/20220414-164335-128x128.png)
 
 ![Tux](https://files.catbox.moe/bfc9fd.webp)
